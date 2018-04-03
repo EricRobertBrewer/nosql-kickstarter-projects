@@ -1,0 +1,16 @@
+CREATE TABLE IF NOT EXISTS kickstarter.projects (
+ID bigint PRIMARY KEY,
+name varchar,
+category varchar,
+main_category varchar,
+currency varchar,
+deadline date,
+goal decimal,
+launched timestamp,
+pledged decimal,
+state varchar,
+backers int,
+country varchar,
+usd_pledged decimal,
+usd_pledged_real decimal,
+usd_goal_real decimal);
