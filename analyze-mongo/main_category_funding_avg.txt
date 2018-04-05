@@ -1,0 +1,20 @@
+MongoDB shell version v3.6.2
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.6.2
+switched to db w18_cs601r_ks
+{ "main_category" : "Design", "avg_funding" : 24417.03469837047 }
+{ "main_category" : "Technology", "avg_funding" : 21151.171165218457 }
+{ "main_category" : "Games", "avg_funding" : 21041.90314041611 }
+{ "main_category" : "Comics", "avg_funding" : 6610.443827525649 }
+{ "main_category" : "Film & Video", "avg_funding" : 6157.978427459307 }
+{ "main_category" : "Fashion", "avg_funding" : 5712.450838884994 }
+{ "main_category" : "Food", "avg_funding" : 5113.669715876757 }
+{ "main_category" : "Theater", "avg_funding" : 4005.9180985980024 }
+{ "main_category" : "Music", "avg_funding" : 3858.367607573481 }
+{ "main_category" : "Photography", "avg_funding" : 3571.909321829483 }
+{ "main_category" : "Dance", "avg_funding" : 3452.9463561571124 }
+{ "main_category" : "Publishing", "avg_funding" : 3349.951930581331 }
+{ "main_category" : "Art", "avg_funding" : 3220.986967996306 }
+{ "main_category" : "Journalism", "avg_funding" : 2615.702567823344 }
+{ "main_category" : "Crafts", "avg_funding" : 1632.907282324895 }
+bye

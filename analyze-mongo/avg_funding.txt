@@ -1,0 +1,6 @@
+MongoDB shell version v3.6.2
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.6.2
+switched to db w18_cs601r_ks
+{ "avg_funding" : 9058.924074119066 }
+bye

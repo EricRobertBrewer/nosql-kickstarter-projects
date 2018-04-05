@@ -1,0 +1,20 @@
+MongoDB shell version v3.6.2
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.6.2
+switched to db w18_cs601r_ks
+{ "main_category" : "Film & Video", "count" : 63585 }
+{ "main_category" : "Music", "count" : 51918 }
+{ "main_category" : "Publishing", "count" : 39874 }
+{ "main_category" : "Games", "count" : 35231 }
+{ "main_category" : "Technology", "count" : 32569 }
+{ "main_category" : "Design", "count" : 30070 }
+{ "main_category" : "Art", "count" : 28153 }
+{ "main_category" : "Food", "count" : 24602 }
+{ "main_category" : "Fashion", "count" : 22816 }
+{ "main_category" : "Theater", "count" : 10913 }
+{ "main_category" : "Comics", "count" : 10819 }
+{ "main_category" : "Photography", "count" : 10779 }
+{ "main_category" : "Crafts", "count" : 8809 }
+{ "main_category" : "Journalism", "count" : 4755 }
+{ "main_category" : "Dance", "count" : 3768 }
+bye

@@ -1,0 +1,20 @@
+MongoDB shell version v3.6.2
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.6.2
+switched to db w18_cs601r_ks
+{ "main_category" : "Technology", "max_avg_funding" : { "category" : "Camera Equipment", "avg_funding" : 81362.31987980769 } }
+{ "main_category" : "Games", "max_avg_funding" : { "category" : "Gaming Hardware", "avg_funding" : 40089.04778037383 } }
+{ "main_category" : "Design", "max_avg_funding" : { "category" : "Product Design", "avg_funding" : 28546.89293134355 } }
+{ "main_category" : "Publishing", "max_avg_funding" : { "category" : "Letterpress", "avg_funding" : 24628.872727272726 } }
+{ "main_category" : "Music", "max_avg_funding" : { "category" : "Chiptune", "avg_funding" : 17691.527142857143 } }
+{ "main_category" : "Fashion", "max_avg_funding" : { "category" : "Footwear", "avg_funding" : 16291.717508055854 } }
+{ "main_category" : "Comics", "max_avg_funding" : { "category" : "Anthologies", "avg_funding" : 13441.451604938273 } }
+{ "main_category" : "Theater", "max_avg_funding" : { "category" : "Spaces", "avg_funding" : 10788.126995305163 } }
+{ "main_category" : "Film & Video", "max_avg_funding" : { "category" : "Narrative Film", "avg_funding" : 10522.269602929839 } }
+{ "main_category" : "Food", "max_avg_funding" : { "category" : "Spaces", "avg_funding" : 7489.104228971963 } }
+{ "main_category" : "Photography", "max_avg_funding" : { "category" : "Photobooks", "avg_funding" : 7220.971221518987 } }
+{ "main_category" : "Crafts", "max_avg_funding" : { "category" : "Letterpress", "avg_funding" : 5334.203421052632 } }
+{ "main_category" : "Art", "max_avg_funding" : { "category" : "Sculpture", "avg_funding" : 4738.357585635359 } }
+{ "main_category" : "Dance", "max_avg_funding" : { "category" : "Spaces", "avg_funding" : 4130.9836 } }
+{ "main_category" : "Journalism", "max_avg_funding" : { "category" : "Audio", "avg_funding" : 3527.8403658536586 } }
+bye
