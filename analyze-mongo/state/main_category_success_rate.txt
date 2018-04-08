@@ -1,0 +1,20 @@
+MongoDB shell version v3.6.2
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.6.2
+switched to db w18_cs601r_ks
+{ "_id" : "Dance", "count" : 2338, "total" : 3768, "success_rate" : "62.04" }
+{ "_id" : "Theater", "count" : 6534, "total" : 10913, "success_rate" : "59.87" }
+{ "_id" : "Comics", "count" : 5842, "total" : 10819, "success_rate" : "53.99" }
+{ "_id" : "Music", "count" : 24197, "total" : 51918, "success_rate" : "46.60" }
+{ "_id" : "Art", "count" : 11510, "total" : 28153, "success_rate" : "40.88" }
+{ "_id" : "Film & Video", "count" : 23623, "total" : 63585, "success_rate" : "37.15" }
+{ "_id" : "Games", "count" : 12518, "total" : 35231, "success_rate" : "35.53" }
+{ "_id" : "Design", "count" : 10550, "total" : 30070, "success_rate" : "35.08" }
+{ "_id" : "Publishing", "count" : 12300, "total" : 39874, "success_rate" : "30.84" }
+{ "_id" : "Photography", "count" : 3305, "total" : 10779, "success_rate" : "30.66" }
+{ "_id" : "Food", "count" : 6085, "total" : 24602, "success_rate" : "24.73" }
+{ "_id" : "Fashion", "count" : 5593, "total" : 22816, "success_rate" : "24.51" }
+{ "_id" : "Crafts", "count" : 2115, "total" : 8809, "success_rate" : "24.00" }
+{ "_id" : "Journalism", "count" : 1012, "total" : 4755, "success_rate" : "21.28" }
+{ "_id" : "Technology", "count" : 6434, "total" : 32569, "success_rate" : "19.75" }
+bye

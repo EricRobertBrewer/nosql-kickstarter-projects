@@ -1,0 +1,20 @@
+MongoDB shell version v3.6.2
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.6.2
+switched to db w18_cs601r_ks
+{ "main_category" : "Games", "backers" : { "min" : 0, "max" : 219382, "mean" : 321.7856149413868 } }
+{ "main_category" : "Design", "backers" : { "min" : 0, "max" : 154926, "mean" : 241.29963418689724 } }
+{ "main_category" : "Technology", "backers" : { "min" : 0, "max" : 105857, "mean" : 164.4666093524517 } }
+{ "main_category" : "Comics", "backers" : { "min" : 0, "max" : 14952, "mean" : 134.77123578888992 } }
+{ "main_category" : "Film & Video", "backers" : { "min" : 0, "max" : 91585, "mean" : 66.01520798930565 } }
+{ "main_category" : "Fashion", "backers" : { "min" : 0, "max" : 15129, "mean" : 61.44779978962132 } }
+{ "main_category" : "Publishing", "backers" : { "min" : 0, "max" : 21808, "mean" : 55.96601795656317 } }
+{ "main_category" : "Food", "backers" : { "min" : 0, "max" : 13116, "mean" : 54.17246565319893 } }
+{ "main_category" : "Music", "backers" : { "min" : 0, "max" : 24883, "mean" : 52.168323124927774 } }
+{ "main_category" : "Theater", "backers" : { "min" : 0, "max" : 3722, "mean" : 47.05727114450655 } }
+{ "main_category" : "Dance", "backers" : { "min" : 0, "max" : 4133, "mean" : 42.801220806794056 } }
+{ "main_category" : "Art", "backers" : { "min" : 0, "max" : 22834, "mean" : 42.20509359570916 } }
+{ "main_category" : "Photography", "backers" : { "min" : 0, "max" : 5582, "mean" : 39.7140736617497 } }
+{ "main_category" : "Journalism", "backers" : { "min" : 0, "max" : 3136, "mean" : 38.29463722397476 } }
+{ "main_category" : "Crafts", "backers" : { "min" : 0, "max" : 12705, "mean" : 27.28368713815416 } }
+bye

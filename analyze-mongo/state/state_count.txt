@@ -1,0 +1,11 @@
+MongoDB shell version v3.6.2
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.6.2
+switched to db w18_cs601r_ks
+{ "state" : "failed", "count" : 197719, "percent" : "52.21" }
+{ "state" : "successful", "count" : 133956, "percent" : "35.37" }
+{ "state" : "canceled", "count" : 38779, "percent" : "10.24" }
+{ "state" : "undefined", "count" : 3562, "percent" : "0.940" }
+{ "state" : "live", "count" : 2799, "percent" : "0.739" }
+{ "state" : "suspended", "count" : 1846, "percent" : "0.487" }
+bye
